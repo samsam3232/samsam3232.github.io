@@ -1,7 +1,7 @@
 ---
 title: QAMPARI A Benchmark for Open-domain Questions with Many Answers
 authors:
-- '**Samuel Joseph Amouyal**'
+- **Samuel Joseph Amouyal**
 - Tomer Wolfson
 - Ohad Rubin
 - Ori Yoran

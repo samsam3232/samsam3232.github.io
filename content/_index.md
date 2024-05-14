@@ -10,7 +10,7 @@ sections:
     content:
       title: Hugo Academic Theme
       image:
-        filename: hero-academic.png
+        filename: SA.png
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
@@ -51,6 +51,7 @@ sections:
 #     design:
 #       columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -203,7 +204,8 @@ sections:
 #     design:
 #       columns: '2'
 #       view: card
-  - block: collection
+  - block: publications
+    id: publications
     content:
       title: Recent Publications
       text: |-
@@ -242,13 +244,13 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: samamouyal201195@gmail.com
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+    #   coordinates:
+    #     latitude: '37.4275'
+    #     longitude: '-122.1697'  
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Follow me here
           link: 'https://twitter.com/AmouyalSamuel'
       # Automatically link email and phone or display as text?
       autolink: true

@@ -107,7 +107,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: files/cv/cv.pdf
+    link: static/uploads/samuel_resume_global.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -115,7 +115,8 @@ highlight_name: true
 
 **About me**
 
-I am a PhD student in NLP under the supervision of the amazing [Prof. Jonathan Berant](https://www.cs.tau.ac.il/~joberant/) and [Prof. Aya Meltzer-Asscher](https://english.tau.ac.il/profile/ameltzer) at [Tel-Aviv University](https://english.tau.ac.il/) in Israel. I mainly research Large Language Models (LLMs) under the scope of psycholinguistic theory, hoping to draw conclusions for both NLP and psycholinguistics. I am also an NLP research lead at [BlinqIO](https://blinq.io/)
+I am a PhD student in NLP under the supervision of the amazing [Prof. Jonathan Berant](https://www.cs.tau.ac.il/~joberant/) and [Prof. Aya Meltzer-Asscher](https://english.tau.ac.il/profile/ameltzer) at [Tel-Aviv University](https://english.tau.ac.il/) in Israel. I mainly research Large Language Models (LLMs) under the scope of psycholinguistic theory, hoping to draw conclusions for both NLP and psycholinguistics.   
+I am also an NLP research lead at [BlinqIO](https://blinq.io/)
 
 **Additional research interests**
 
