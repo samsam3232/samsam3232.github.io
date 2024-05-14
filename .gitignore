@@ -1,8 +1,10 @@
-/public/
-/resources/_gen/
-/assets/jsconfig.json
-.hugo_build.lock
+# IDEs
+.idea/
 
-./static/files/cv/cv.aux
-./static/files/cv/cv.bcf
-./static/files/cv/cv.log
+# Hugo
+resources/
+public/
+jsconfig.json
+node_modules/
+go.sum
+.hugo_build.lock
