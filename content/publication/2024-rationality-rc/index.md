@@ -1,5 +1,5 @@
 ---
-title: "Rationality Report Cards: Assessing the Economic Rationality of Large Language Models"
+title: "Rationality Report Cards Assessing the Economic Rationality of Large Language Models"
 date: 2024-02-08
 publishDate:  2024-02-08
 authors: ["Narun Raman", "Taylor Lundy", "**Samuel Joseph Amouyal**", "Yoav Levine", "Kevin Leyton-Brown", "Moshe Tennenholtz"]

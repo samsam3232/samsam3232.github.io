@@ -1,5 +1,5 @@
 ---
-title: "QAMPARI: A Benchmark for Open-domain Questions with Many Answers"
+title: "QAMPARI A Benchmark for Open-domain Questions with Many Answers"
 date: 2022-05-25
 publishDate:  2023-12-18
 authors: ["**Samuel Joseph Amouyal**", "Tomer Wolfson", "Ohad Rubin", "Ori Yoran", "Jonathan Herzig", "Jonathan Berant"]
