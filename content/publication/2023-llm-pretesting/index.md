@@ -1,7 +1,7 @@
 ---
 title: Large Language Models for Psycholinguistic Plausibility Pretesting
 authors:
-- '**Samuel Joseph Amouyal**'
+- admin
 - Aya Meltzer-Asscher
 - Jonathan Berant
 date: '2024-02-14'

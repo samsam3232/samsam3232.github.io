@@ -3,7 +3,7 @@ title: Rationality Report Cards Assessing the Economic Rationality of Large Lang
 authors:
 - Narun Raman
 - Taylor Lundy
-- '**Samuel Joseph Amouyal**'
+- admin
 - Yoav Levine
 - Kevin Leyton-Brown
 - Moshe Tennenholtz
