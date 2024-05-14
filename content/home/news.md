@@ -11,14 +11,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Job
-      tag: Job
+    - name: Industry
+      tag: Industry
     - name: Personal
       tag: Personal
-    - name: Outreach
-      tag: Outreach
+    - name: Academy
+      tag: Academy
 design:
-  columns: '2'
+  columns: '1'
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact

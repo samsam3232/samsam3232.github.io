@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Samuel Joseph Amouyal
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Samuel
+last_name: Amouyal
 
 # Status emoji
 status:
@@ -14,28 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist, MSCA Fellow
+role: PhD candidate @ TAU, Research scientist @ Blinq.io
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LiPhy, UGA, CNRS
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: TAU-NLP
+    url: https://www.cs.tau.ac.il/~joberant/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer physicist in soft matter and fluids at interfaces at LIPhy (UGA/CNRS) in Grenoble, France.
+bio: I am a PhD candidate in computer science interested in the intersection between Natural Language Processing (NLP) and other fields (psycholinguistics, economy, game-theory, literature ...)
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - NLP
+  - Brain science
+  - Literature
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: MSc in NLP
+      institution: Tel-Aviv University (Israel)
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,21 +45,21 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@live.fr
+    link: mailto:samsam201195@gmail.com
     # link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GravelleSimon
+    link: https://twitter.com/AmouyalSamuel
     label: Follow me on Twitter
   #- icon: mastodon
   #  icon_pack: fab
   #  link: https://mastodon.social/@simongravelle
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr
+    link: https://scholar.google.com/citations?user=CNMQqsYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/samsam3232
     display:
       header: true
   - icon: cv
@@ -71,21 +71,12 @@ highlight_name: true
 ---
 **About me**
 
-I am a [CNRS](https://www.cnrs.fr/) researcher at [LIPhy](https://liphy.univ-grenoble-alpes.fr/) in Grenoble, France. I use molecular simulations to study fluids at interfaces and soft matter systems.
+I am a PhD student in NLP under the supervision of the amazing [Prof. Jonathan Berant](https://www.cs.tau.ac.il/~joberant/) and [Prof. Aya Meltzer-Asscher](https://english.tau.ac.il/profile/ameltzer) at [Tel-Aviv University](https://english.tau.ac.il/) in Israel. I mainly research Large Language Models (LLMs) under the scope of psycholinguistic theory, hoping to draw conclusions for both NLP and psycholinguistics. I am also an NLP research lead at [BlinqIO](https://blinq.io/)
 
-**Open source and open data**
+**Additional research interests**
 
-I share all the codes developed as part of my research as open source, see for instance:
-
-- my [Github](https://github.com/simongravelle/) repository containing molecular simulation scripts and data,
-- [NMRforMD](https://nmrformd.readthedocs.io), a Python script for calculating hydrogen NMR relaxation rates from molecular dynamics simulations,
-
-In parallel to my open-source projects, I have been involved in the development of [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html), a Python toolkit for analyzing confined molecular simulations.
-
-**Outreach**
-
-In parallel to my research activities, I am developing several outreach projects, including:
-- the [LAMMPS tutorials](https://lammpstutorials.github.io) webpage and its associated [repositories](https://github.com/lammpstutorials),
-- [MDCourse](https://github.com/mdcourse/mdcourse.github.io): Learn Molecular Simulations with Python,
-- the [GROMACS tutorials](https://gromacstutorials.github.io) page,
-- a [gallery of animations](https://www.youtube.com/@SimonGravelle) and [molecular art](https://simongravelle.github.io/gallery/).
+I began my academic journey in the [Adi Lautman Interdisciplinary Program for Outstanding Students](https://en.wikipedia.org/wiki/Adi_Lautman_Interdisciplinary_Program_for_Outstanding_Students) and I took classes in many faculties (mainly neurology, psychology, philosophy, biology but also economics, history, education...).  
+My research interest are therefore diverse and I have a few ongoing projects apart from my main PhD research:
+- A project in literature to improve creativity of LLMs (with the participation of the Israeli author Etgar Keret)
+- Projects in economy/game theory 
+I am always open to new collaborations and exploring new fields so feel free to reach out.  
