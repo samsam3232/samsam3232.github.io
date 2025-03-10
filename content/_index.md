@@ -83,6 +83,14 @@ sections:
           date_start: '2023-11-01'
           date_end: ''
           description: 'NLP research lead for BlinqIO, focusing on building autonomous agent-based virtual testers.'
+        - title: Teaching Assistant
+          company: Tel-Aviv University 
+          company_url: '[https://blinq.io/](https://www.ims.tau.ac.il/Tal/Syllabus/Syllabus_L.aspx?course=0368220001&year=2024)'
+          company_logo: 
+          location: Tel-Aviv, Israel
+          date_start: '2022-10-01'
+          date_end: ''
+          description: 'Teaching assistant for the class Computational Models in TAU. Taught tutorial classes to 50-60 people.'
         - title: Research scientist 
           company: Mobileye
           company_url: 'https://www.mobileye.com/'
