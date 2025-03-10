@@ -107,7 +107,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: static/uploads/samuel_resume_global.pdf
+    link: https://github.com/samsam3232/samsam3232.github.io/blob/main/static/uploads/samuel_resume_work.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
