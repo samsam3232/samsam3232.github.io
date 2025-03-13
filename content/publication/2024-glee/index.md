@@ -5,7 +5,7 @@ authors:
 - Omer Madmon
 - Itamar Reinman
 - admin
-- Roei Reichart
+- Roi Reichart
 - Moshe Tennenholtz
 date: '2024-10-07'
 publishDate: '2024-10-07T09:16:29.109019Z'
