@@ -123,7 +123,7 @@ sections:
       title: 'Awards &amp; Honors'
       subtitle:
       # Only years are shown, matching how these grants are awarded.
-      date_format: 2006
+      date_format: '2006'
       items:
         - title: Vatat Grant for Outstanding PhD Students in Data Science
           organization: Israeli Council for Higher Education (VATAT)
