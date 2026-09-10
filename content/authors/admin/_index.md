@@ -16,14 +16,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate @ TAU, Research scientist @ Blinq.io
+role: PhD candidate @ TAU, Research scientist @ LegionSecurity
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: TAU-NLP
     url: https://www.cs.tau.ac.il/~joberant/
-  - name: BlinqIO
-    url: https://blinq.io/
+  - name: LegionSecurity
+    url: https://legionsecurity.ai/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD candidate in computer science interested in the intersection between Natural Language Processing (NLP) and other fields (psycholinguistics, economy, game-theory, literature ...)
@@ -37,9 +37,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in NLP
+    - course: PhD in Computer Science (NLP), ongoing
       institution: Tel-Aviv University (Israel)
       year: 2022
+    - course: MSc in Computer Science (NLP)
+      institution: Tel-Aviv University (Israel)
+      year: 2022
+    - course: Adi Lautman Interdisciplinary Program for Outstanding Students
+      institution: Tel-Aviv University (Israel)
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -88,7 +94,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:samsam201195@gmail.com
+    link: mailto:samamouyal201195@gmail.com
     # link: '/#contact'
   - icon: twitter
     icon_pack: fab
@@ -116,7 +122,7 @@ highlight_name: true
 **About me**
 
 I am a PhD student in NLP under the supervision of the amazing [Prof. Jonathan Berant](https://www.cs.tau.ac.il/~joberant/) and [Prof. Aya Meltzer-Asscher](https://english.tau.ac.il/profile/ameltzer) at [Tel-Aviv University](https://english.tau.ac.il/) in Israel. I mainly research Large Language Models (LLMs) under the scope of psycholinguistic theory, hoping to draw conclusions for both NLP and psycholinguistics.   
-I am also an NLP research lead at [BlinqIO](https://blinq.io/)
+I am also a research scientist at [LegionSecurity](https://legionsecurity.ai/), working on evaluations and web-agent research. Before that I was the NLP research lead at [BlinqIO](https://blinq.io/).
 
 **Additional research interests**
 

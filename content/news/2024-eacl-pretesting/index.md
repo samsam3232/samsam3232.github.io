@@ -10,6 +10,6 @@ links:
   - icon_pack: fas
     icon: scroll
     name: Paper
-    url: 'hhttps://arxiv.org/pdf/2402.05455'
+    url: 'https://aclanthology.org/2024.findings-eacl.12.pdf'
 ---
 I presented our paper as a poster at the Findings of EACL.

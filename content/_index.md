@@ -75,82 +75,82 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research scientist
+          company: LegionSecurity
+          company_url: 'https://legionsecurity.ai/'
+          company_logo: 
+          location: Tel-Aviv, Israel
+          date_start: '2025-05-01'
+          date_end: ''
+          description: 'Research scientist at LegionSecurity, a startup developing an AI agent that performs SOC analyst tasks. Working on evaluations and web-agent research.'
         - title: NLP research lead
-          company: BlinqIO 
+          company: BlinqIO
           company_url: 'https://blinq.io/'
           company_logo: 
           location: Tel-Aviv, Israel
           date_start: '2023-11-01'
-          date_end: ''
-          description: 'NLP research lead for BlinqIO, focusing on building autonomous agent-based virtual testers.'
-        - title: Teaching Assistant
-          company: Tel-Aviv University 
+          date_end: '2025-04-30'
+          description: 'NLP research lead for BlinqIO, a startup developing a generative AI agent that replaces human QA engineers. Led the company NLP research across training, prompt engineering, and pre/post-processing algorithms.'
+        - title: Teaching Assistant, Computational Models
+          company: Tel-Aviv University
           company_url: 'https://www.ims.tau.ac.il/Tal/Syllabus/Syllabus_L.aspx?course=0368220001&year=2024'
           company_logo: 
           location: Tel-Aviv, Israel
           date_start: '2022-10-01'
           date_end: ''
-          description: 'Teaching assistant for the class Computational Models in TAU. Taught tutorial classes to 50-60 people.'
-        - title: Research scientist 
+          description: 'Teach tutorials for the Computational Models course to classes of 50-60 students.'
+        - title: Research scientist
           company: Mobileye
           company_url: 'https://www.mobileye.com/'
           company_logo: 
           location: Tel-Aviv, Israel
           date_start: '2022-07-01'
           date_end: '2023-11-01'
-          description: 'Research scientist at Mobileye, focusing on foundational multimodal models (vision and language).'
-        - title: Algorithm engineer 
+          description: 'Research scientist in the GT2D R&D team, leading research on two projects: allowing multi-modal models to reason over images, and model selection using deep learning. Built the deep learning training library currently used by the GT team (200 people).'
+        - title: Algorithm engineer
           company: Mobileye
           company_url: 'https://www.mobileye.com/'
           company_logo: 
           location: Tel-Aviv, Israel
           date_start: '2020-07-01'
           date_end: '2022-06-30'
-          description: 'Algorithm engineer at Mobileye, in charge of training segmentation vision models and post processing the results to create hgigh quality 2D picture segmentation.'
+          description: 'Part of the GT2D team, responsible for creating algorithms (models and post-processing) that extract the ground truth used across Mobileye from 2D images.'
     design:
       columns: '2'
-#   - block: accomplishments
-#     content:
-#       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-#       title: 'Accomplish&shy;ments'
-#       subtitle:
-#       # Date format: https://docs.hugoblox.com/customization/#date-format
-#       date_format: Jan 2006
-#       # Accomplishments.
-#       #   Add/remove as many `item` blocks below as you like.
-#       #   `title`, `organization`, and `date_start` are the required parameters.
-#       #   Leave other parameters empty if not required.
-#       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-#       items:
-#         - certificate_url: https://www.coursera.org
-#           date_end: ''
-#           date_start: '2021-01-25'
-#           description: ''
-#           icon: coursera
-#           organization: Coursera
-#           organization_url: https://www.coursera.org
-#           title: Neural Networks and Deep Learning
-#           url: ''
-#         - certificate_url: https://www.edx.org
-#           date_end: ''
-#           date_start: '2021-01-01'
-#           description: Formulated informed blockchain models, hypotheses, and use cases.
-#           icon: edx
-#           organization: edX
-#           organization_url: https://www.edx.org
-#           title: Blockchain Fundamentals
-#           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#         - certificate_url: https://www.datacamp.com
-#           date_end: '2020-12-21'
-#           date_start: '2020-07-01'
-#           description: ''
-#           icon: datacamp
-#           organization: DataCamp
-#           organization_url: https://www.datacamp.com
-#           title: 'Object-Oriented Programming in R'
-#           url: ''
-    # design:
-    #   columns: '2'
+  - block: accomplishments
+    id: awards
+    content:
+      title: 'Awards &amp; Honors'
+      subtitle:
+      # Only years are shown, matching how these grants are awarded.
+      date_format: 2006
+      items:
+        - title: Vatat Grant for Outstanding PhD Students in Data Science
+          organization: Israeli Council for Higher Education (VATAT)
+          organization_url: 'https://che.org.il/en/'
+          date_start: '2025-01-01'
+          date_end: ''
+          description: ''
+          certificate_url: ''
+          url: ''
+        - title: TAD Grant
+          organization: Tel-Aviv University
+          organization_url: 'https://english.tau.ac.il/'
+          date_start: '2023-01-01'
+          date_end: '2024-12-31'
+          description: ''
+          certificate_url: ''
+          url: ''
+        - title: Adi Lautman Excellence Scholarship
+          organization: Tel-Aviv University
+          organization_url: 'https://en.wikipedia.org/wiki/Adi_Lautman_Interdisciplinary_Program_for_Outstanding_Students'
+          date_start: '2018-01-01'
+          date_end: '2022-12-31'
+          description: ''
+          certificate_url: ''
+          url: ''
+    design:
+      columns: '2'
 #   - block: collection
 #     id: posts
 #     content:
