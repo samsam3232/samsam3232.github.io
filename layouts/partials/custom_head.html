@@ -1,0 +1,46 @@
+{{/*
+  Person structured data for the homepage.
+
+  The theme's own JSON-LD (blox-seo/layouts/partials/jsonld/main.html) only emits
+  a WebSite object on the homepage, and emits an Organization ONLY when
+  marketing.seo.site_type is not "Person". So with site_type: Person, nothing
+  describing the person is emitted at all. This fills that gap.
+
+  `sameAs` is what ties this site to the profiles Google already indexes, which
+  is the point: it tells Google the Samuel Amouyal here is the one on Scholar
+  and GitHub, not one of the other people sharing the name.
+*/}}
+{{- if .IsHome -}}
+  {{- $author := site.GetPage "/authors/admin" -}}
+  {{- $img := "" -}}
+  {{- with $author -}}
+    {{- with .Resources.GetMatch "avatar*" -}}
+      {{- $img = .Permalink -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $person := dict
+    "@context" "https://schema.org"
+    "@type" "Person"
+    "name" "Samuel Joseph Amouyal"
+    "givenName" "Samuel"
+    "familyName" "Amouyal"
+    "url" site.BaseURL
+    "jobTitle" "PhD Candidate in Computer Science"
+    "description" site.Params.marketing.seo.description
+    "affiliation" (slice
+      (dict "@type" "CollegeOrUniversity" "name" "Tel Aviv University" "url" "https://english.tau.ac.il/")
+      (dict "@type" "Organization" "name" "LegionSecurity" "url" "https://legionsecurity.ai/"))
+    "alumniOf" (dict "@type" "CollegeOrUniversity" "name" "Tel Aviv University" "url" "https://english.tau.ac.il/")
+    "knowsAbout" (slice
+      "Natural Language Processing"
+      "Large Language Models"
+      "Psycholinguistics"
+      "Sentence Processing")
+    "sameAs" (slice
+      "https://scholar.google.com/citations?user=CNMQqsYAAAAJ&hl=en"
+      "https://github.com/samsam3232"
+      "https://twitter.com/AmouyalSamuel")
+  -}}
+  {{- with $img }}{{ $person = merge $person (dict "image" $img) }}{{ end -}}
+  <script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
+{{- end -}}
