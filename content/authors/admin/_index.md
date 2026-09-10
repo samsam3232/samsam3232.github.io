@@ -128,6 +128,6 @@ I am also a research scientist at [LegionSecurity](https://legionsecurity.ai/), 
 
 I began my academic journey in the [Adi Lautman Interdisciplinary Program for Outstanding Students](https://en.wikipedia.org/wiki/Adi_Lautman_Interdisciplinary_Program_for_Outstanding_Students) and I took classes in many faculties (mainly neurology, psychology, philosophy, biology but also economics, history, education...).    
 My research interest are therefore diverse and I have a few ongoing projects apart from my main PhD research:
-- A project in literature to improve creativity of LLMs (with the participation of the Israeli author Etgar Keret)
-- Projects in economy/game theory 
+- A project about consciousness and LLMs
+- Projects in economy/game theory  
 I am always open to new collaborations and exploring new fields so feel free to reach out.  
